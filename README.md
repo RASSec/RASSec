@@ -1,5 +1,4 @@
 # Whoami
 ##
-security researcher.
+Bug Bounty Hunter
 #
-------------
