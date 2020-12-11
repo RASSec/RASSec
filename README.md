@@ -1,4 +1,4 @@
 # Whoami
 ##
-Bug Bounty Hunter
+Hunter
 #
